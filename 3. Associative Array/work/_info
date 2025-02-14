@@ -1,0 +1,44 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.7c/examples
+T_opt
+!s110 1739521669
+V@mD2@_?DYVBnKG40zkih]0
+04 2 4 work Q3 fast 0
+=1-d41b810174b1-67aefe85-2e9-2c84
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vQ3
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1739521668
+!i10b 1
+!s100 N2_B>Y_S6i6aQZKB6K1621
+IB^k;d^:<n^Q5kW]_ieoK83
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 Q3_associative_sv_unit
+S1
+dC:/Users/prash/Documents/DV/SYSTEM VERILOG/ARRAY/3. Associative Array
+w1739521664
+8Q3_associative.sv
+FQ3_associative.sv
+L0 14
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1739521668.000000
+!s107 Q3_associative.sv|
+!s90 -reportprogress|300|Q3_associative.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@q3

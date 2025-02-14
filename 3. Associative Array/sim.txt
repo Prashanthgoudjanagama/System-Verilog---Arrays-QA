@@ -1,0 +1,35 @@
+----------------------------------------------------------------
+ 
+ ass_int size : 3
+ ass_int num : 3
+ ass_int : {10:23} {20:54} {100:34} 
+ 
+ 14 is not exists
+ 10 is exists and data : 23
+ 
+ ass_int size after delete : 2
+ ass_int num after delete : 2
+ ass_int : {20:54} {100:34} 
+ 
+ ass_int size after compl delete : 0
+ ass_int num after compl delete : 0
+ ass_int : 
+ 
+ ----------------------------------------------------------------
+ 
+ ass_string size : 4
+ ass_string num  : 4
+ ass_string : {"BOX0":guava} {"BOX1":apples} {"BOX2":mangos} {"BOX3":banana} 
+ 
+ ass_string first : BOX0
+ 
+ ass_string next to BOX2 : BOX3
+ 
+ ass_string prev from last : BOX2
+ 
+ ass_string last : BOX3
+ 
+ ass_string size after box3 delete : 3
+ ass_string num after box3 delete  : 3
+ ass_string after box3 delete : {"BOX0":guava} {"BOX1":apples} {"BOX2":mangos} 
+ 
