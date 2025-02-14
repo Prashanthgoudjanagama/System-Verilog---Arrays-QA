@@ -28,8 +28,7 @@ Clone the repo and explore the SystemVerilog examples to strengthen your HDL ski
 	Q13. find 2nd largest and smallest num?
 
  # practice set-2
-
-        Q14. print 2D 3x3 matrix?
+    Q14. print 2D 3x3 matrix?
 	Q15. addition of 2 3x3 matrixs?
 	Q16. substraction of 2 3x3 matrixs?
 	Q17. multiplication of two matrics?
