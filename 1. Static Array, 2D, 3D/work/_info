@@ -1,0 +1,44 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.7c/examples
+T_opt
+!s110 1739508576
+VfDdi]c3>fKC<5X;MM:LC@3
+04 2 4 work Q1 fast 0
+=1-d41b810174b1-67aecb60-28d-3fd8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vQ1
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1739508573
+!i10b 1
+!s100 [gB4zR8?mC55B`@[XZBfC0
+I0aO?h<C;4KY`bQ]P8D3Le0
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 Q1_all_array_store_and_print_sv_unit
+S1
+dC:/Users/prash/Documents/DV/SYSTEM VERILOG/ARRAY/1. ALL arrays store and print
+w1739508569
+8Q1_all_array_store_and_print.sv
+FQ1_all_array_store_and_print.sv
+L0 3
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1739508573.000000
+!s107 Q1_all_array_store_and_print.sv|
+!s90 -reportprogress|300|Q1_all_array_store_and_print.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@q1
