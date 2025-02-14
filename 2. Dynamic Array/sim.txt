@@ -1,0 +1,13 @@
+-----------------------------------------------------------------
+ 
+ dynamic array size before new : 0
+ dynamic array size after new : 10
+ dynamic : 0 10 20 30 40 50 60 70 80 90
+ dynamic array size after delete : 0
+ dynamic : 
+ 
+ -----------------------------------------------------------------
+ 
+ dynamic_1 array size before new : 0
+ dynamic_1 array size after new : 10
+ dynamic_1 = 0 0 0 0 0 0 0 0 0 0

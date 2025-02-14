@@ -1,4 +1,4 @@
 vlib work
-vlog Q1_all_array_store_and_print.sv
+vlog Q1_Static_2D_3D.sv
 vsim -voptargs="+acc" work.Q1
 run -all
