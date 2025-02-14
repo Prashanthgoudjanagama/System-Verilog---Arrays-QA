@@ -1,0 +1,44 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.7c/examples
+T_opt
+!s110 1739524477
+V1Q<jZGUlWWKCY6EnzhoMX0
+04 2 4 work Q4 fast 0
+=1-d41b810174b1-67af097d-124-2f40
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vQ4
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1739524475
+!i10b 1
+!s100 =2J1@7E4J36nl;MA:i33;2
+I9B^1OCIZcYDldz1@7HUnV1
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 Q4_Queue_sv_unit
+S1
+dC:/Users/prash/Documents/DV/SYSTEM VERILOG/ARRAY/4. Queue
+w1739524468
+8Q4_Queue.sv
+FQ4_Queue.sv
+L0 15
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1739524475.000000
+!s107 Q4_Queue.sv|
+!s90 -reportprogress|300|Q4_Queue.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@q4
