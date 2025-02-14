@@ -1,0 +1,44 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.7c/examples
+T_opt
+!s110 1739553205
+VWY]b^Z?_af7>K^^azE^id1
+04 3 4 work PS1 fast 0
+=1-d41b810174b1-67af79b4-3c1-3578
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+vPS1
+DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+!s110 1739553202
+!i10b 1
+!s100 ;`@_]oAh?EZO]CE84kVb<1
+IU<A=EbZ<l^]h;XFYa^mc73
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 practice_set_1_sv_unit
+S1
+dC:/Users/prash/Documents/DV/SYSTEM VERILOG/ARRAY/5. QA/1. Practice Set-1
+w1739553172
+8practice_set_1.sv
+Fpractice_set_1.sv
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1739553202.000000
+!s107 practice_set_1.sv|
+!s90 -reportprogress|300|practice_set_1.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@p@s1

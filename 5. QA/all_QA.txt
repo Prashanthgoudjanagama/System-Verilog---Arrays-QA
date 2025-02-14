@@ -1,0 +1,71 @@
+
+
+
+-----------------------------------practice set1-----------------------------------
+
+	Q1. store the elements in array and print it?
+	Q2. store the elments and print it in reverse?
+	Q3. find sum of all elments in the array?
+	Q4. copy one array to another and merge two arrays in one array?
+	Q5. count the total num of duplicates?
+	Q6. Unique elements in the array?
+	Q7. count the freq of each elements?
+	Q8. find max and min number?
+	Q9. seperate odd and even locations in arrays?
+	Q10. sort the elements assending order and dessending order?
+	Q11. insert into the sorted and unsorted array?
+	Q12. delete a selected position?
+	Q13. find 2nd largest and smallest num?
+
+
+-----------------------------------practice set2-----------------------------------
+
+	Q14. print 2D 3x3 matrix?
+	Q15. addition of 2 3x3 matrixs?
+	Q16. substraction of 2 3x3 matrixs?
+	Q17. multiplication of two matrics?
+	Q18. transpose of matrics?
+	Q19. sum of right and left diagonals of matrics?
+	Q20. sum of rows and columns of matrix?
+	Q21. print upper and lower trianguler matrix?
+	Q22. caluclate det of 3x3 matrix?
+	Q23. given matrix is a sparse matrix are not?
+	Q24. set two 2x2 matrices and check they are equal are not?
+	Q25. check identity matrix?
+
+
+
+-----------------------------------practice set3-----------------------------------
+	
+	Q26. sum of any two value in a array to be expected value? 
+	Q27. majority element in the array? (n - size, appears more then n/2 times)
+	Q28. search element in row and column wise?
+	Q29. find the row with max num of ones?
+	Q30. find the missing num from the array and there are no duplicates in array?
+	Q31. segregate 0's, 1's ?
+	Q32. merge two sorted arrays in one sorted array?
+	Q33. rorate array by N-position?
+	Q34. move all zeros to the end?
+	Q35. segregate even and odd elements in array (all even, all odd)?
+	Q36. find the smallest missing element from sorted array?
+	Q37. repeating elemts in the array?
+	Q38. find the sum of two elments near to zero?
+	Q39. generates random elements in the range 10-100 in a array?
+
+
+-----------------------------------practice set4-----------------------------------
+
+	Q40. fibbinacci series in array?
+	Q41. factorial?
+	Q42. prime num?
+	Q43. even and odd?
+	Q44. leap year?
+	Q45. palindrome num?
+	Q46. GCD of two num's?
+	Q47. LCM of two num's?
+	Q48. Armstrong num?
+	Q49. check the perfect square?
+	Q50. sum of digits in the num?
+	Q51. convert dec to bin?
+	Q52. count the num of digits in a num?
+	Q53. Swap two num without using a third variable?

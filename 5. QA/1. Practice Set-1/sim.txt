@@ -1,0 +1,105 @@
+ ---------------------------------------------------------------------------
+# 
+# ---------- Q1. print the array-----------
+# Q1 : 1 2 3 4 5 6 7 8 9 10
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q2. print the array in reverse order-----------
+# Q2 : 1 2 3 4 5
+# Q2_temp : 5 4 3 2 1
+# using reverse method --> Q2 : 5 4 3 2 1
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q3. find the sum off all elements-----------
+# Q3 : 1 2 3 4 5 6 7 8 9 10
+# sum : 55
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q4. copy one array into another and two into one merge-----------
+# Q4 : 1 2 3
+# Q4 to --> q4_s : 1 2 3
+# q4_s1 : 4 5 6
+# {q4_s,q4_s1} --> q4  : 1 2 3 4 5 6
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q5. find the duplicate num in the array-----------
+# Q5 : 1 2 3 4 5 2 4 5
+# dupl : {1:2} {3:4} {4:5} 
+# dupl_count : 3
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q6. unique element in the array-----------
+# Q6 : 1 2 3 4 3 4 5
+# unq : 1 2 3 4 5
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q7. freq of each num-----------
+# Q7 : 1 2 3 1 2 3 4 5 4
+# ** Warning: (vsim-3829) Non-existent associative array entry. Returning default value.
+#    Time: 0 ns  Iteration: 0  Process: /PS1/#INITIAL#5,21,42,64,90,116,144,165,194,221,268,289,306 File: practice_set_1.sv Line: 151
+# ** Warning: (vsim-3829) Non-existent associative array entry. Returning default value.
+#    Time: 0 ns  Iteration: 0  Process: /PS1/#INITIAL#5,21,42,64,90,116,144,165,194,221,268,289,306 File: practice_set_1.sv Line: 151
+# ** Warning: (vsim-3829) Non-existent associative array entry. Returning default value.
+#    Time: 0 ns  Iteration: 0  Process: /PS1/#INITIAL#5,21,42,64,90,116,144,165,194,221,268,289,306 File: practice_set_1.sv Line: 151
+# ** Warning: (vsim-3829) Non-existent associative array entry. Returning default value.
+#    Time: 0 ns  Iteration: 0  Process: /PS1/#INITIAL#5,21,42,64,90,116,144,165,194,221,268,289,306 File: practice_set_1.sv Line: 151
+# ** Warning: (vsim-3829) Non-existent associative array entry. Returning default value.
+#    Time: 0 ns  Iteration: 0  Process: /PS1/#INITIAL#5,21,42,64,90,116,144,165,194,221,268,289,306 File: practice_set_1.sv Line: 151
+# element : 1 frequency is 2 times
+# element : 2 frequency is 2 times
+# element : 3 frequency is 2 times
+# element : 4 frequency is 2 times
+# element : 5 frequency is 1 times
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q8. find the min and max num-----------
+# Q8 : 2 34 5 1 33 67 28 78 31
+# after sort Q8 : 1 2 5 28 31 33 34 67 78
+# max num in this Q8 : 78
+# min num in this Q8 : 1
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q9. separate odd and even locations in diff arrays-----------
+# Q8 : 65 78 98 103 56 71 68 81 122 178 191 209 279 301 356
+# even : {0:65} {2:98} {4:56} {6:68} {8:122} {10:191} {12:279} {14:356} 
+# odd : {1:78} {3:103} {5:71} {7:81} {9:178} {11:209} {13:301} 
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q10. assending and dessending order-----------
+# Q10 : 1 8 6 3 4 2 5 7 9
+# sorted_arr : 1 2 3 4 5 6 7 8 9
+# desorted_arr : 9 8 7 6 5 4 3 2 1
+# using Q10.sort : 1 2 3 4 5 6 7 8 9
+# using Q10.rsort : 9 8 7 6 5 4 3 2 1
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q11. insert into sorted and unsorted arrays-----------
+# Q11 : 12 14 15 17 16 20 19 18
+# after sort Q11 : 12 14 15 16 17 18 19 20
+# Q11 after insert: 12 13 14 15 16 17 18 19 20
+# Q11_un : 2 3 41 21 67 1 27 34
+# Q11_un after insert : 2 3 41 21 67 1 27 10000 34
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q12. delete a element at disired position-----------
+# Q12 : 23 34 45 56 78
+# Q12 after delete(2) : 23 34 56 78
+# 
+# ---------------------------------------------------------------------------
+# 
+# ---------- Q13. find 2nd largest and 2nd smallest num-----------
+# Q13 : 65 78 98 103 56 71 68 81 122 178 191 209 279 301 356
+# after rsort Q13 : 356 301 279 209 191 178 122 103 98 81 78 71 68 65 56
+# 2nd min : 65
+# 2nd max : 301
