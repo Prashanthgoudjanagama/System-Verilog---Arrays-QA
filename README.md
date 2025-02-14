@@ -26,3 +26,18 @@ Clone the repo and explore the SystemVerilog examples to strengthen your HDL ski
 	Q11. insert into the sorted and unsorted array?
 	Q12. delete a selected position?
 	Q13. find 2nd largest and smallest num?
+
+ # practice set-2
+
+        Q14. print 2D 3x3 matrix?
+	Q15. addition of 2 3x3 matrixs?
+	Q16. substraction of 2 3x3 matrixs?
+	Q17. multiplication of two matrics?
+	Q18. transpose of matrics?
+	Q19. sum of right and left diagonals of matrics?
+	Q20. sum of rows and columns of matrix?
+	Q21. print upper and lower trianguler matrix?
+	Q22. caluclate det of 3x3 matrix?
+	Q23. given matrix is a sparse matrix are not?
+	Q24. set two 2x2 matrices and check they are equal are not?
+	Q25. check identity matrix?
