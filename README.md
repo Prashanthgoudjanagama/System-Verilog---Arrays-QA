@@ -40,3 +40,21 @@ Clone the repo and explore the SystemVerilog examples to strengthen your HDL ski
 	Q23. given matrix is a sparse matrix are not?
 	Q24. set two 2x2 matrices and check they are equal are not?
 	Q25. check identity matrix?
+
+ # practice set-3
+    Q26. sum of any two value in a array to be expected value? 
+	Q27. majority element in the array? (n - size, appears more then n/2 times)
+	Q28. search element in row and column wise?
+	Q29. find the row with max num of ones?
+	Q30. find the missing num from the array and there are no duplicates in array?
+	Q31. segregate 0's, 1's ?
+	Q32. merge two sorted arrays in one sorted array?
+	Q33. rorate array by N-position?
+	Q34. move all zeros to the end?
+	Q35. segregate even and odd elements in array (all even, all odd)?
+	Q36. find the smallest missing element from sorted array?
+	Q37. repeating elemts in the array?
+	Q38. find the sum of two elments near to zero?
+	Q39. generates random elements in the range 10-100 in a array?
+
+
