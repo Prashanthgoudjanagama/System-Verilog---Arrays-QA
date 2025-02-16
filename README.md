@@ -57,4 +57,20 @@ Clone the repo and explore the SystemVerilog examples to strengthen your HDL ski
 	Q38. find the sum of two elments near to zero?
 	Q39. generates random elements in the range 10-100 in a array?
 
+ # practice set-4
+    Q40. fibbinacci series in array?
+	Q41. factorial?
+	Q42. prime num?
+	Q43. even and odd?
+	Q44. leap year?
+	Q45. palindrome num?
+	Q46. GCD of two num's?
+	Q47. LCM of two num's?
+	Q48. Armstrong num?
+	Q49. check the perfect square?
+	Q50. sum of digits in the num?
+	Q51. convert dec to bin?
+	Q52. count the num of digits in a num?
+	Q53. Swap two num without using a third variable?
+
 
